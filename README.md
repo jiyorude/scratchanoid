@@ -1,2 +1,2 @@
 # scratchanoid
-Arkanoid Clone built with Scratch and Leopard.js
+Arkanoid Clone built with Scratch and HTMLifier by (SheepTester)
