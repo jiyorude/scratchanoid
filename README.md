@@ -24,7 +24,7 @@ Arkanoid Clone built with Scratch and HTMLifier by (SheepTester)
 Inspired by the 1987 NES Game Arkanoid
 Created by Jordy Veenstra in Scratch
 All assets found in the game were custom-made by Jordy Veenstra
-Compiled with HTMLifier, created by SheepTester at https://www.github.com/SheepTester/htmlifier)
+Compiled with HTMLifier, created by SheepTester at https://www.github.com/SheepTester/htmlifier
 ```
 
 ### Terms of Use
