@@ -28,5 +28,4 @@ Compiled with HTMLifier, created by SheepTester at https://www.github.com/SheepT
 ```
 
 ### Terms of Use
-You are free to play the game on the Live Demo and/or on Scratch. You are free to host the game on any other website as long as you give proper credits to me. This game was created as an assignment for Harvard's CS50x. Therefore, if you are interested to check under the hood or if you want a starting reference for your own game, you are more than welcome to do so. However, please adhere to the Academic Honesty Policy and do not copy/paste parts or the game in whole and pass it off as your own if you
-are working on the same assignment.
+Code licensed under MIT.
